@@ -44,6 +44,4 @@ newUser.addAddress('hey now');
 newUser.addStreet('Hey now street');
 
 console.log(newUser);
-console.log('' + user);
-
 
